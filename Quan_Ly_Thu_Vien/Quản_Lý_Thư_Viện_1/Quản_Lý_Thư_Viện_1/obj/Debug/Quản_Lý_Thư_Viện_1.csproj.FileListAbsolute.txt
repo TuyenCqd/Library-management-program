@@ -1,0 +1,70 @@
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\bin\Debug\Quản_Lý_Thư_Viện_1.exe.config
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\bin\Debug\Quản_Lý_Thư_Viện_1.exe
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\bin\Debug\Quản_Lý_Thư_Viện_1.pdb
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.exe
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.pdb
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormDangNhap.resources
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormMain.resources
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormNXB.resources
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormTacGia.resources
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormTheLoaiSach.resources
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormUpdateSach.resources
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormNhanVien.resources
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormDocGia.resources
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormMuonTra.resources
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormTimKiem.resources
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormDangNhap.aa-DJ.resources
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormDangNhap.aa.resources
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\aa-DJ\Quản_Lý_Thư_Viện_1.resources.dll
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\aa\Quản_Lý_Thư_Viện_1.resources.dll
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\bin\Debug\aa-DJ\Quản_Lý_Thư_Viện_1.resources.dll
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\bin\Debug\aa\Quản_Lý_Thư_Viện_1.resources.dll
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.csproj.ResolveComReference.cache
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormThongKeSach.resources
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormThongKeDocGia.resources
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormQuanLyTainKhoan.resources
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormQuenMatKhau.resources
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\bin\Debug\Quản_Lý_Thư_Viện_1.exe.manifest
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\bin\Debug\Quản_Lý_Thư_Viện_1.application
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.exe.manifest
+C:\Users\HP\OneDrive\Desktop\Quản Lý Thư Viện\Quản_Lý_Thư_Viện\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.application
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\bin\Debug\Quản_Lý_Thư_Viện_1.exe.config
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\bin\Debug\Quản_Lý_Thư_Viện_1.exe.manifest
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\bin\Debug\Quản_Lý_Thư_Viện_1.application
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\bin\Debug\Quản_Lý_Thư_Viện_1.exe
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\bin\Debug\Quản_Lý_Thư_Viện_1.pdb
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\bin\Debug\aa-DJ\Quản_Lý_Thư_Viện_1.resources.dll
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\bin\Debug\aa\Quản_Lý_Thư_Viện_1.resources.dll
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.csproj.ResolveComReference.cache
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormDangNhap.resources
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormDocGia.resources
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormMain.resources
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormMuonTra.resources
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormNhanVien.resources
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormNXB.resources
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormQuanLyTainKhoan.resources
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormQuenMatKhau.resources
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormTacGia.resources
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormTheLoaiSach.resources
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormThongKeDocGia.resources
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormThongKeSach.resources
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormTimKiem.resources
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormUpdateSach.resources
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormDangNhap.aa-DJ.resources
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.FormDangNhap.aa.resources
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\aa-DJ\Quản_Lý_Thư_Viện_1.resources.dll
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\aa\Quản_Lý_Thư_Viện_1.resources.dll
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.exe.manifest
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.application
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.exe
+C:\Users\HP\OneDrive\Desktop\group3_QLTV\Quan_Ly_Thu_Vien\Quản_Lý_Thư_Viện_1\Quản_Lý_Thư_Viện_1\obj\Debug\Quản_Lý_Thư_Viện_1.pdb
